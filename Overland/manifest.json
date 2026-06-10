@@ -1,0 +1,14 @@
+{
+  "name": "Overland",
+  "short_name": "Overland",
+  "description": "Offline field GPS — satellite/topo maps, waypoints, backtrack, GPX.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1411",
+  "theme_color": "#0d1411",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
